@@ -1,5 +1,5 @@
 # MSBA
-## Microsoft Business Analyst Professional Certificate
+## Microsoft Business Analyst Professional Certificate (6 course series)
 
 Business analysis is a field that is becoming increasingly important in many different industries. As organizations become more data-driven, the need for skilled analysts who can help them make sense of this data is growing. Jobs related to Business Analysis are projected to increase by 14% from 2018 to 2028. That is 9% higher than the average growth rate for all occupations.1
 
